@@ -1,0 +1,11 @@
+Model Information:
+* title:	GCN Dry Dry Desert
+* source:	https://sketchfab.com/3d-models/gcn-dry-dry-desert-a61ca9ac9bb747fa8b38879e1520a5ae
+* author:	Legoshi Fan (https://sketchfab.com/PLego-Shi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GCN Dry Dry Desert" (https://sketchfab.com/3d-models/gcn-dry-dry-desert-a61ca9ac9bb747fa8b38879e1520a5ae) by Legoshi Fan (https://sketchfab.com/PLego-Shi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wii Maple Treeway
+* source:	https://sketchfab.com/3d-models/wii-maple-treeway-00ff9a5460284806b22ba1fd2f33d712
+* author:	Legoshi Fan (https://sketchfab.com/PLego-Shi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wii Maple Treeway" (https://sketchfab.com/3d-models/wii-maple-treeway-00ff9a5460284806b22ba1fd2f33d712) by Legoshi Fan (https://sketchfab.com/PLego-Shi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

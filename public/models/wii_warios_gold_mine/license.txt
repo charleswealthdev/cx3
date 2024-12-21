@@ -1,0 +1,11 @@
+Model Information:
+* title:	Wii Wario's Gold Mine
+* source:	https://sketchfab.com/3d-models/wii-warios-gold-mine-e0a021212e6a4a42824607e350c8cf2d
+* author:	Legoshi Fan (https://sketchfab.com/PLego-Shi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Wii Wario's Gold Mine" (https://sketchfab.com/3d-models/wii-warios-gold-mine-e0a021212e6a4a42824607e350c8cf2d) by Legoshi Fan (https://sketchfab.com/PLego-Shi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

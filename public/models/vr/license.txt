@@ -1,0 +1,8 @@
+Model Information:
+* title:	Lectorium for VR education
+* source:	https://sketchfab.com/3d-models/lectorium-for-vr-education-70c8efa040ee4200b87bfe2334230751
+* author:	GTKima (https://sketchfab.com/GTKima)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
